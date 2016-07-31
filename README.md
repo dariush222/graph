@@ -11,12 +11,7 @@ Next version will work with a graph database like orientdb or neo4j
 
 ### Install Dependencies
 
-We have two kinds of dependencies in this project: tools and angular framework code.  The tools help
-us manage and test the application.
-
 * We get the tools we depend upon via `npm`, the [node package manager][npm].
-
-We have preconfigured `npm` to automatically run `bower` so we can simply do:
 
 ```
 npm install
@@ -25,7 +20,6 @@ npm install
 You should find that you have a new folder in your project.
 
 * `node_modules` - contains the npm packages for the tools we need
-
 
 ### Run the Application
 
