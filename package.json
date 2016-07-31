@@ -1,0 +1,19 @@
+{
+  "name": "graphApp",
+  "version": "1.0.0",
+  "description": "Simple Graph Visualization system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Dariush Eskandari",
+  "license": "---",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*"
+  }
+}
